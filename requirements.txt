@@ -1,4 +1,5 @@
 pyautogui
+pyinstaller
 discord_webhook
 cloudscraper
 win10toast
